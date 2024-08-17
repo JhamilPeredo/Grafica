@@ -1,0 +1,11 @@
+C:\Users\JHAMIL\source\repos\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\JHAMIL\source\repos\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\JHAMIL\source\repos\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\JHAMIL\source\repos\ConsoleApp1\bin\Debug\OpenTK.dll
+C:\Users\JHAMIL\source\repos\ConsoleApp1\bin\Debug\OpenTK.pdb
+C:\Users\JHAMIL\source\repos\ConsoleApp1\bin\Debug\OpenTK.xml
+C:\Users\JHAMIL\source\repos\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\JHAMIL\source\repos\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\JHAMIL\source\repos\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CopyComplete
+C:\Users\JHAMIL\source\repos\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\JHAMIL\source\repos\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
